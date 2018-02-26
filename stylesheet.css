@@ -1,0 +1,34 @@
+img {
+    position: fixed;
+top: 35%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.search {
+    position: fixed;
+    top: 40%;
+    left: 38%;
+    width: 500px;
+    padding: 5px;
+}
+.btnsearch {
+    position: fixed;
+    top: 44%;
+    left: 45%;
+    width: 90px;
+    height:30px;
+    padding: 5px;
+    font-size: 17px;
+    padding-bottom: 25px;
+}
+.altbutton {
+        position: fixed;
+    top: 44%;
+    left: 51%;
+    width: 95px;
+    height:30px;
+    padding: 5px;
+    font-size: 11px;
+    padding-bottom: 25px;
+}
