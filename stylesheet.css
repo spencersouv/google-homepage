@@ -13,7 +13,7 @@ transform: translate(-50%, -50%);
     padding: 5px;
 }
 .btnsearch {
-    position: fixed;
+    position: absolute;
     top: 44%;
     left: 45%;
     width: 90px;
@@ -23,7 +23,7 @@ transform: translate(-50%, -50%);
     padding-bottom: 25px;
 }
 .altbutton {
-        position: fixed;
+        position: absolute;
     top: 44%;
     left: 51%;
     width: 95px;
@@ -31,4 +31,6 @@ transform: translate(-50%, -50%);
     padding: 5px;
     font-size: 11px;
     padding-bottom: 25px;
+    white-space: normal;
+    border: solid 1px black;
 }
